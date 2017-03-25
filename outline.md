@@ -18,35 +18,24 @@ I propose to defend the simplified, predicational view of generic sentences agai
 
 But exploring the nature of fickleness reveals the need to factor conversational context into our semantic analysis, and the manner in which context operates in generic discourse provides a way to preserve the predicational analysis in the face of quirkiness.
 
-\goop{ex}{bears}
-
-: (Bears)
-
-    > **Surface**: Bears are dangerous. \
-      **Predication**: Dangerous(Bears) \
-      **Quantification**: GEN(Bears)(Dangerous)
+> Ex 1. (Bears)
+     **Surface**: Bears are dangerous. 
+     **Predication**: Dangerous(Bears) 
+     **Quantification**: GEN(Bears)(Dangerous)
 
 [^varieties]: Sentences involving bare plurals are often taken to be a class twice-divided. Characterizing generics (**I**) are distinguished, in terms of their logical structure, from existential plurals (**E**)
 and direct kind generics (**D**).
-
-    \goop{ex}{varieties}
-
-    : (Plural varieties)
-
-        > **I**. Bears are dangerous.
-                 $\rightarrow GEN(bears)(dangerous)$ \
+    > Ex 2. (Plural varieties)
+          **I**. Bears are dangerous.
+                 $\rightarrow GEN(bears)(dangerous)$ 
           **E**. Bears are frolicking.
-                 $\rightarrow\exists X (X \subseteq bears \land X \in frolicking)$ \
+                 $\rightarrow\exists X (X \subseteq bears \land X \in frolicking)$ 
           **D**. Bears are endangered.
                  $\rightarrow endangered(bears)$
 
 [^quirkyex]: The following set provides an example of the quirkiness of characterizing generics. (a) is true, since most all grizzlies have brown fur. But, while (b) is true even though very few polar bears have ever tasted human, (c) is false even though most **SUBJECT** satisfy **PREDICATE**.
-
-    \goop{ex}{quirky}
-
-    : (Quirky generics)
-
-        > a) Grizzlies are brown.
+> Ex 3. (Quirky generics)
+     a) Grizzlies are brown.
           b) Polar bears eat humans.
           c) [False even though a lot satisfy.]
 
@@ -54,12 +43,9 @@ and direct kind generics (**D**).
 
 In addition to their quirkiness, generics exhibit *fickle* behavior in extended discourse. Consider the following exchange:
 
-\goop{ex}{teddy}
-
-: (Teddy bears)
-
-    > **A**:  Bears are dangerous. \
-      **B**:  What about Teddy bears? \
+> Ex 4. (Teddy bears)
+     **A**:  Bears are dangerous. \
+     **B**:  What about Teddy bears? \
       **A**:  I didn't mean *all* bears.
 
 The naturalness of *B*'s response to *A*'s first utterance, the dialogue *initiation*,[^initiation] suggests that bare plural sentences are susceptible to correction,[^susceptible] which pushes us toward a more strict representation of the content of the initiation. That is, it seems that *B* is disputing *A*'s claim in [Teddy bears](#teddy), and the most natural way to formalize disagreement is in terms of commitment to conflicting content.
