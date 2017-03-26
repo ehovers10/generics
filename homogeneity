@@ -1,0 +1,39 @@
+<p>In a discussion of plural <em>definite</em> noun phrases, Sebastian Löbner notes that:</p>
+<blockquote>
+<p>“The referent of a definite NP cannot be split in case the predicate holds only for some part of it, but not for the whole. Without any differentiating modification of the predication, the alternative is just that of global truth or global falsity. If it is impossible to apply the predicate or its negation globally it fails to yeild a truth-value.” [@lobner1987, p. 185]</p>
+</blockquote>
+<p>This is why, in reference to a group of mixed-gender young bears engaged in a wrestling match, (a) in the following seems true while (b) seems neither true nor false:</p>
+<dl>
+<dt>Ex 1. (Playing bears)</dt>
+<dd>a. The cubs are playing.<br>
+b. The cubs are boys.</dd>
+</dl>
+<p>Löbner uses the data above to characterize plural definites as <em>ultrafilters</em>:</p>
+<blockquote>
+<p>“A filter NP is an <strong>ultrafilter</strong> iff it has the following property:<br>
+<strong>(Completeness)</strong> If the predicate P is false for the NP, its negation not-P is true for the NP.”</p>
+</blockquote>
+<p>In extending this idea to the case of bare plurals<sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup> (which he takes to be bound by an implicit GEN operator), Kai von Fintel suggests that:</p>
+<blockquote>
+<p>“A speaker who chooses a sentence involving GEN rather than one of the overt quantifiers signals that it is presupposed that the cases in the domain of quantification are uniform with respect to the property attributed by the scope of the quantifier.” [@vonfintel1997, p. 34]</p>
+</blockquote>
+<p>von Fintel’s analysis treats the GEN operator as lexically encoded to trigger a presupposition such that:</p>
+<blockquote>
+<dl>
+<dt>Def. (Homogeneity)</dt>
+<dd>Utterances involving bare plural subjects present the set determined by the subject as homogenous with respect to the predicate. The predicate applies either to all members of the subject class or to none of them.</dd>
+</dl>
+</blockquote>
+<p>The homogeneity presupposition carried by bare plurals is different from, say, the existence presupposition associated with definite descriptions. Instead of making a claim of individual membership in a class, homogeneity is a property of a class as a whole. Thus, a presupposition of homogeneity <em>tests</em> a set, passing the whole thing through if the presupposition is met and derailing the conversation if it isn’t @veltman1996. That is to say, the homogeneity presupposition is a <em>structuring update</em>.</p>
+<p>Notes:</p>
+<ul>
+<li>The presupposition is contextually cancelable.</li>
+<li>Krifka treats homogeneity as an instance of pragmatic strengthening</li>
+</ul>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>@schwarzschild1994 also discusses the homogeneity presupposition in the context of plurals. He takes it to apply only in the presence of a distributivity operator on the plural. <a href="#fnref1" class="footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>
